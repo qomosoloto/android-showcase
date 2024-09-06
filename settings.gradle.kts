@@ -7,6 +7,7 @@ include(
     ":feature_favourite",
     ":feature_base",
     ":library_test_utils",
+    ":feature_login",
     ":konsist_test",
 )
 

@@ -76,6 +76,7 @@ dependencies {
     implementation(projects.featureAlbum)
     implementation(projects.featureProfile)
     implementation(projects.featureFavourite)
+    implementation(projects.featureLogin)
 }
 
 /*
